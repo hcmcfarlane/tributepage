@@ -1,1 +1,118 @@
-/* Copy and paste your CSS from CodePen into here */
+main #main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+    border: solid black 20px;
+    border-radius: 50px;
+    background-color: skyblue;
+    }
+  
+  div#main {
+    font-family: "Crimson Pro", Georgia, serif;
+    font-size: 1.5em
+  }
+  
+  h1#title {
+    font-family: Bangers, "Crimson Pro", Georgia, serif;
+    font-size: 3em;
+    margin-bottom: 0;
+    margin-top: 0.3em;
+    text-align: center;
+    }
+  
+  h2#page-subtitle {
+    font-style: italic;
+    font-family: "Nova Mono", "Crimson Pro", Georgia, serif;
+    font-size: 1.2em;
+    margin-top: 0.3em;
+    text-align: center;
+  }
+  
+  .author-name {
+    font-weight: bold;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    font-size: 1.1em;
+  }
+  
+  div#standfirst {
+    font-size: 1.1em;
+    background-color: ghostwhite;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: -30px;
+    margin-right: 0px;
+    line-height: 1.3em;
+    text-align: center;
+  }
+  #standfirst p {
+    background-color: inherit;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-bottom: 0;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  #standfirst p.author {
+    font-style: italic;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: right;
+    padding-right: 20%;
+    font-size: 0.9em;
+  }
+  
+  #img-div {
+    background-color: inherit;
+    max-width: 80%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .main-img {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+  }
+  
+  #tribute-info {
+    width: 85%;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    line-height: 1.4em;
+  }
+  
+  span.readmore {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.85em;
+  }
+  
+  span.eptitle {
+    font-weight: bold;
+  }
+  
+  h3#eplist {
+    font-family: "Bangers", "Crimson Pro", Georgia, serif; 
+    font-size: 1.6em;
+    margin: 0;
+    margin-top: 5px;
+    }
+  
+  #main a {
+    color: tomato;
+  }
+  #main a:link {
+    color: tomato;
+  }
+  #main a:visited {
+    color: rebeccapurple;
+  }
+  #main a:hover {
+    color: hotpink;
+  }/* Copy and paste your CSS from CodePen into here */
