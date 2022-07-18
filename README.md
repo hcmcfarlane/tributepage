@@ -1,5 +1,7 @@
 # Hello 
 
+[CLICK HERE](https://hcmcfarlane.github.io/tributepage/) to see the page in action
+
 This is a 'tribute page' challenge I completed as part of my pre-bootcamp work for the School of Code—which is to say, this is what I could do *before* 16 weeks of bootcamp. Just imagine what I can do now! Wait, no. Don't imagine it—check out some of my other repos and see it for yourself!
 
 # README - Learning Journey step 7
